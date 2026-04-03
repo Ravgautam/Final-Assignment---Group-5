@@ -64,6 +64,9 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 
 ---
 
+<img src="processflow.png" width="550" height="500">
+<em>Figure 1: Process Flow</em>
+
 ## 6. Materials and Ingredients (For 4 People)
 
 ### Dough Ingredients

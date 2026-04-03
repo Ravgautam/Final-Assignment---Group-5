@@ -68,8 +68,6 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 
 ### Dough Ingredients
 
-![Dough Ingredients](https://images.unsplash.com/photo-1604908176997-4319e0f6f7d3)
-
 | Ingredient         | Quantity |
 |-------------------|----------|
 | All-purpose flour | 3 cups   |
@@ -79,11 +77,13 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 | Salt              | 1 tsp    |
 | Olive oil         | 2 tbsp   |
 
+<img src="dough.jpg" width="550" height="500">
+<em>Figure 1: Dough (Source: (Foodness Gracious, n.d.))</em>
+
 ---
 
 ### Veggie Pizza Toppings
 
-![Veggie Ingredients](https://images.unsplash.com/photo-1512621776951-a57141f2eefd)
 
 | Ingredient        | Quantity |
 |------------------|----------|
@@ -94,11 +94,13 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 | Black olives     | ½ cup    |
 | Mozzarella       | 2 cups   |
 
+<img src="Veggies.jpg" width="550" height="500">
+<em>Figure 1: Veggie Toppings (Source: (Vecteezy, n.d.))</em>
+
 ---
 
 ### BBQ Chicken Ingredients
 
-![BBQ Chicken Prep](https://images.unsplash.com/photo-1600891964599-f61ba0e24092)
 
 | Ingredient              | Quantity |
 |------------------------|----------|
@@ -108,33 +110,38 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 | Green pepper           | 1 medium |
 | Cheddar cheese         | 2 cups   |
 
+<img src="BBQ items.jpg" width="550" height="500">
+<em>Figure 1: BBQ Toppings (Source: (Diethood, n.d.))</em>
+
 ---
 
 ## 7. Procedure
 
 ### 7.1 Dough Preparation
 
-![Kneading Dough](https://images.unsplash.com/photo-1604908177225-6fbd3c54e3e1)
 
 1. Activate yeast  
 2. Mix dry ingredients  
 3. Knead dough  
 4. Let dough rise  
 
+<img src="Kneading dough.jpg" width="550" height="500">
+<em>Figure 1: Dough Kneading (Source: (WebstaurantStore, n.d.))</em>
+
 ---
 
 ### 7.2 Sauce Preparation
 
-![Tomato Sauce](https://images.unsplash.com/photo-1585238342024-78d387f4a707)
-
 - Mix tomatoes, garlic, herbs  
-- Rest sauce for flavor  
+- Rest sauce for flavor
+
+<img src="Tomato sauce.jpg" width="550" height="500">
+<em>Figure 1: Sauce Preparation (Source: (Mangia with Nonna, n.d.))</em>
 
 ---
 
 ### 7.3 Veggie Pizza Assembly
 
-![Veggie Pizza](https://images.unsplash.com/photo-1548365328-9f547fb0953f)
 
 1. Roll dough  
 2. Add sauce  
@@ -142,11 +149,12 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 4. Add vegetables  
 5. Final cheese layer  
 
+<img src="Veggie pizza.jpg" width="550" height="500">
+<em>Figure 1: Veggie Pizza Assembly (Source: (Pizza Twist, n.d.))</em>
+
 ---
 
 ### 7.4 BBQ Chicken Pizza Assembly
-
-![BBQ Chicken Pizza](https://images.unsplash.com/photo-1594007654729-407eedc4be65)
 
 1. Roll dough  
 2. Add BBQ sauce  
@@ -154,21 +162,23 @@ This SOP applies to individuals preparing pizza using standard kitchen equipment
 4. Add chicken & toppings  
 5. Final drizzle  
 
+<img src="BBQ.jpg" width="550" height="500">
+<em>Figure 1: BBQ Pizza Assembly (Source: (Molly’s Home Guide, n.d.))</em>
+
 ---
 
 ## 8. Baking and Serving
-
-![Pizza in Oven](https://images.unsplash.com/photo-1600891964599-f61ba0e24092)
 
 - Bake at **450°F (230°C)**  
 - 10–15 minutes  
 - Golden crust and bubbling cheese  
 
+<img src="Baking.jpg" width="550" height="500">
+<em>Figure 1: Baking (Source: (Atlas Steel Co., n.d.))</em>
+
 ---
 
 ## 9. Serving and Final Checks
-
-![Serving Pizza](https://images.unsplash.com/photo-1548365328-9f547fb0953f)
 
 1. Cool 2–3 minutes  
 2. Slice into 8 pieces  
@@ -193,6 +203,11 @@ This SOP ensures consistent, safe, and high-quality pizza preparation in a home 
 
 ## 12. References (APA)
 
-- USDA. (2020). Safe Minimum Internal Temperature Chart  
-- FDA. (2017). Food Code  
-- McGee, H. (2004). On Food and Cooking  
+- Sausage and egg breakfast pizza. Foodness Gracious. (n.d.). https://foodnessgracious.com/recipes/sausage-and-egg-breakfast-pizza?utm_source=Pinterest&utm_medium=organic
+- Vecteezy. (n.d.). Fresh organic vegetables including bell peppers, carrots, lettuce, broccoli, cauliflower, and onions isolated on a white background [PNG image]. Retrieved April 3, 2026, from https://www.vecteezy.com/png/47830754-fresh-organic-vegetables-including-bell-peppers-carrots-lettuce-broccoli-cauliflower-and-onions-isolated-on-a-white-background
+- Diethood. (n.d.). Grilled BBQ chicken pizza. Retrieved April 3, 2026, from https://diethood.com/grilled-bbq-chicken-pizza
+- WebstaurantStore. (n.d.). Baking terms glossary. Retrieved April 3, 2026, from https://www.webstaurantstore.com/article/1081/baking-terms-glossary.html
+- Mangia with Nonna. (n.d.). Authentic Italian pizza sauce. Retrieved April 3, 2026, from https://mangiawithnonna.com/authentic-italian-pizza-sauce/
+- Pizza Twist. (n.d.). Best pizza in Flower Mound, TX. Retrieved April 3, 2026, from https://pizzatwist.com/locations/best-pizza-in-flower-mound-tx
+- Molly’s Home Guide. (n.d.). Easy BBQ chicken pizza. Retrieved April 3, 2026, from https://mollyshomeguide.com/easy-bbq-chicken-pizza-142225/
+- Atlas Steel Co. (n.d.). Atlas Steel Co. Retrieved April 3, 2026, from https://atlassteelco.ca/
